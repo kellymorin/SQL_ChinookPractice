@@ -1,0 +1,1 @@
+-- 9b. total_sales_2011.sql: What are the respective total sales for 2011?
